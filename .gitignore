@@ -1,4 +1,5 @@
 # ConsoleArkanoid
+ConsoleArbin/Debug/
 
-bin/Debug/
-*.meta
+#HelixJump_project
+HelixJump_project/Assets/Scripts/*.meta
