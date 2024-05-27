@@ -1,5 +1,9 @@
 # ConsoleArkanoid
 ConsoleArkanoid.exe
 
-#HelixJump_project
+# HelixJump_project
 HelixJump_project/Assets/Scripts/*.meta
+
+# Another
+.gitattributes
+.vs/
